@@ -1,0 +1,3 @@
+# settings file for SFC
+NETWORKING_SFC_DIR="$DEST/networking-sfc"
+SFC_PLUGIN_CLASS="networking_sfc.services.sfc.plugin.SFCPlugin"
